@@ -31,7 +31,7 @@ const EmptyCart=()=>{
             <Container>
                 <img src={imgurl} alt="EmptyCart" style={{width:'30%'}}/>
                 <Typography>Your Cart is Empty!</Typography>
-                <LowerText to="/">Add items now</LowerText>
+                <LowerText to="/">Buy items now</LowerText>
             </Container>
         </Component>
     )
